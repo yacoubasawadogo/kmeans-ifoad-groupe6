@@ -1,0 +1,5 @@
+* Normaliser l'âge
+
+* Inlcure le genre pour un autre axe d'étude
+
+* Comparer nos résultats avec pour ceux de Kaggle
